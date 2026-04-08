@@ -12,7 +12,7 @@ This is a responsive 🌐 website for a digital marketing agency that showcases 
 
 ## 🌐 Live Demo
 
-View the live website here: [Digital Marketing Agency Website](https://iam269.github.io/Digital-Marketing-Agency-Website/)
+View the live website here: [Digital Marketing Agency Website](https://itsiamdev.github.io/Digital-Marketing-Agency-Website/)
 
 ## 🛠️ Technologies Used
 
